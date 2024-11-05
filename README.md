@@ -2,7 +2,7 @@
 This project aims to classify mango leaf diseases using image data, comparing the performance of Decision Tree and Random Forest classifiers. The analysis provides insights into model accuracy and robustness for effective disease diagnosis in agriculture.
 
 # Files
-mango_leaf(2).ipnyb: The Jupyter notebook with the simulation implementation.
+mango_leaf.ipnyb: The Jupyter notebook with the simulation implementation.
 
 CSE 475  Assignment 1: A detailed report of the project.
 
